@@ -51,6 +51,11 @@
 </p>
 <br/>
 
+<p align="center">
+   <img align="center" src="https://github-profile-trophy.vercel.app/?username=hicretay&theme=darkhub" alt="hicretay" />
+</p>
+<br/>
+
 <!-- ![snake svg](https://github.com/hicretay/hicretay/blob/output/github-contribution-grid-snake.svg) -->
 <!-- ![snake gif](https://github.com/hicrett/hicrett/blob/output/github-contribution-grid-snake.gif)
 
