@@ -3,8 +3,8 @@
   Helloo I'm Hicret👋
 </p>
 
-<p align="center" style="text-align:center; width:435px; margin: 0 auto">
-<img width="435" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4C34F7&width=435&lines=Flutter+%26+iOS+Developer+" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4C34F7&width=435&center=true&lines=Flutter+%26+iOS+Developer+" alt="Typing SVG" />
 </p>
 
 <p align="center">
