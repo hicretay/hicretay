@@ -1,6 +1,6 @@
 ## 
 <p align="center">
-  Helloo I'm Hicret👋
+  Hi I'm Hicret👋
 </p>
 
 <p align="center">
