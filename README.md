@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-🔭 Flutter Developer with 5+ years of experience building and deploying mobile applications for
+🔭 Flutter Developer with 4+ years of experience building and deploying mobile applications for
 international companies. Specialized in cross-platform development, API integration, and publishing apps
 to both iOS and Android stores. Proven ability to work remotely and deliver high-quality solutions in fast-
 paced environments.<br>
